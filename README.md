@@ -1,16 +1,49 @@
-### Hi there 👋, my name is Rayhan
-#### I am a web Developer.
-![I am a web Developer.](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/400020657_3450979551898029_6051986715231658357_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=d4nZTArLyngAX8aTqet&_nc_ht=scontent.fdac24-4.fna&oh=00_AfC13GX-qqB6yNjM6RSzeiPEV120_TVO1Ce2G2Kn4o6U9Q&oe=654F220E)
+![wonerpicture](./images/myself.JPG)  
 
-I am student of HONOURS 2nd year and Also a MERN stack web Developer
+👋Hello, I'm Rayhan
+---
+A full time student  & web developer  
+🏠   Living: Rangpur,Bangladesh  
+[Facebook] [Linkdin]  
+👨‍🏫   About Me  
 
-Skills: MONGO DB/EXPRESS JS/NODE JS / REACT / JS / HTML / CSS
+I am a student of Honours Depertment Of Chemestry and also a self Learner OF web Development.I aim of life is a Best Web Developer In Bangladesh and I Learn More more web development.  
+# My Skill
+- HTML  
+- CSS  
+- Brostrap-5  
+- TailwindCss  
+- Javascript  
+- Recat  
+- MongoDB  
+- Note js
+- Express Js
 
-- 🔭 I’m currently working on FIVER AND UPWORK 
-- 🌱 I’m currently learning JAVASCRIPT 
-- 👯 I’m looking to collaborate on GITHUB 
-- 💬 Ask me about WEB DEVELOPMENT 
-- 📫 How to reach me: what's up: 01723408269 
+# 👨🏻‍🎓Education  
+SSC in Science  
+Changmary Mandrain B-L High School
+
+HSC IN Science  
+Lalmonirhat Goverment Collage  
+
+Honours In Chemestry  
+Rangpur Goverment Collage <hr>
+
+
+_Thanks for going through my Portfolio. All rights reserved by Rayhan @2024_
+
+
+
+
+
+
+
+
+
+
+<!-- All Link is hare -->
+[Facebook]:https://www.facebook.com/rs.rayhan.18
+[linkdin]:https://www.linkedin.com/in/md-rayhan-mia-927115220/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohammadRayhan190720)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-rayhan-mia-927115220//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rs.rayhan.18/)  
