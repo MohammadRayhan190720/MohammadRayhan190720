@@ -1,33 +1,21 @@
-![wonerpicture](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAACEklEQVRIDcWVzUuVURDGf6WVaGKIoehWyZ0thdq4cyMWuC+EDFyIi8AwiP6DijYtCyoIBZe2CYKI2gSSi9SlpCCpBH2QYOr7+M65zD2e+7lp4HLOzDzz8c6ZmQv/mbqAKeANsAb8An4An4CXGX8HaKsnx9PAfeAfcFjh9weYBWRTFV0A3lVwGgfdB4aq8S7nn2t0rmAqVVV0EWgwpGr7EThXxvKmJTNYBlNS1QK8B86UREAIoLMmuhKVaT5h/dxhViskQmPk4BTwzTnYS7TjiNPrHW5FPorY6SIuZx5FDsYjzFngp8MsR/oBz68DvV4AXHXGyvBtpBf7IsL4hlCCBfqb3R4UuPyiMm04BwdwopSjTq8kLpmP1mwD7Hp/Gv8VL7D7Y+dAHRWTyqRJlnNNfei4G7ZSCvglA10uSPKLL5N2Uopema2mP9Ai8CUwOl8b6IkXAr5M3abTAvR03WwnTNhuXzPnQWFgttxnBr3KFMrTDxQ9HhDK1GMGty3gWHCgU1P73RTXvMK6KZTnLpBKYsbZqNt2LLATwz0LoD3vSWXqMEF4q2EPcN3Vma15ddtkpD9mtc8/2PCcTwBUHnWLfs8Seon0pV/t7ZIQDdsm+RKLAZqTEEATnEpiITGwsR/ULQ9PSPM5CQF0xhu0Ofsb7UvYJUVNkVTz4Z3r7vs+gtfOalP+tiDb1rZPy9W69hB1WhwB10Oh70BRLVAAAAAASUVORK5CYII=)  
+# 💫 About Me:
+I am a skilled full stack web developer proficient in the MERN stack (MongoDB, Express.js, React, Node.js). My excel in creating modern, scalable web applications, leveraging my expertise in front-end technologies like HTML, CSS, and React for dynamic user interfaces, coupled with back-end proficiency in Node.js and Express.js for robust server-side development. With a strong foundation in database management using MongoDB, I integrate efficient data handling into my applications. Committed to delivering high-quality solutions, I aspire to advance my skills further, aiming to contribute significantly to the web development community and pursue remote work opportunities.
 
-👋Hello, I'm Rayhan
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rs.rayhan.18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-rayhan-mia-927115220/) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MohammadRayhan190720&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohammadRayhan190720&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRayhan190720&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
-A full time student  & web developer  
-🏠   Living: Rangpur,Bangladesh  
-[Facebook] [Linkdin]  
-👨‍🏫   About Me  
+[![](https://visitcount.itsvg.in/api?id=MohammadRayhan190720&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I am a student of Honours Depertment Of Chemestry and also a self Learner OF web Development.I aim of life is a Best Web Developer In Bangladesh and I Learn More more web development.  
-# My Skill
-- HTML  
-- CSS  
-- Brostrap-5  
-- TailwindCss  
-- Javascript  
-- Recat  
-- MongoDB  
-- Note js
-- Express Js
-
-# 👨🏻‍🎓Education  
-SSC in Science  
-Changmary Mandrain B-L High School
-
-HSC IN Science  
-Lalmonirhat Goverment Collage  
-
-Honours In Chemestry  
-Rangpur Goverment Collage <hr>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 _Thanks for going through my Portfolio. All rights reserved by Rayhan @2024_
