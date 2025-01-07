@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/Bwn5NB7/Fronted-Developer.png" alt="GitHub Banner" width="100%" />
+  <img src="https://i.ibb.co/Bwn5NB7/Fronted-Developer.png" alt="GitHub Banner" width="100%" />
 </p>
+
 # Md Rayhan Mia
+
 
 # 💫 About Me:
 I am a skilled full stack web developer proficient in the MERN stack (MongoDB, Express.js, React, Node.js). My excel in creating modern, scalable web applications, leveraging my expertise in front-end technologies like HTML, CSS, and React for dynamic user interfaces, coupled with back-end proficiency in Node.js and Express.js for robust server-side development. With a strong foundation in database management using MongoDB, I integrate efficient data handling into my applications. Committed to delivering high-quality solutions, I aspire to advance my skills further, aiming to contribute significantly to the web development community and pursue remote work opportunities.
