@@ -1,6 +1,6 @@
-<p align="center">
+<div style="text-align: center;">
   <img src="https://i.ibb.co/Bwn5NB7/Fronted-Developer.png" alt="GitHub Banner" width="100%" />
-</p>
+</div>
 
 # Md Rayhan Mia
 
